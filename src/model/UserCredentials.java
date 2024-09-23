@@ -1,5 +1,9 @@
 package model;
 
+/**Creates an instance of a users credentials
+ *
+ */
+
 public class UserCredentials {
     private long id;
     private String username;

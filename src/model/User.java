@@ -1,4 +1,7 @@
 package model;
+/**Creates an instance of a user
+ *
+ */
 
 public class User {
     private long id;
